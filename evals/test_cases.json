@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "goal": "Research the company Anthropic. Determine if they're a good fit for our enterprise AI consulting service, and draft a qualification summary.",
+    "criteria": "The answer must name Anthropic, discuss their business (AI safety, Claude models, enterprise focus), assess fit for an AI consulting service, and include a qualification summary with a recommendation."
+  },
+  {
+    "id": 2,
+    "goal": "What is the capital of France?",
+    "criteria": "The answer must state that Paris is the capital of France. Any other answer is incorrect."
+  },
+  {
+    "id": 3,
+    "goal": "Research Acme Corporation and determine whether they are a good lead for our CRM optimization consulting service.",
+    "criteria": "The answer must reference a web search for Acme Corporation, discuss the company's business or size, assess whether they would need CRM optimization, and state a clear lead qualification verdict (good fit, poor fit, or needs more research)."
+  },
+  {
+    "id": 4,
+    "goal": "What is the Python ternary operator syntax?",
+    "criteria": "The answer must accurately describe the Python ternary operator syntax as 'value_if_true if condition else value_if_false' and show a clear code example."
+  },
+  {
+    "id": 5,
+    "goal": "Research the company Stripe and draft an outreach email about our payment integration consulting services to their partnerships team.",
+    "criteria": "The answer must: confirm an email was sent or drafted, name Stripe as the company, describe their payment platform business, and include a personalized outreach message about payment integration consulting."
+  },
+  {
+    "id": 6,
+    "goal": "Explain the difference between a list and a tuple in Python.",
+    "criteria": "The answer must accurately state that lists are mutable and tuples are immutable, and mention that lists use square brackets [] while tuples use parentheses ()."
+  },
+  {
+    "id": 7,
+    "goal": "What was the outcome of the 2024 US presidential election?",
+    "criteria": "The answer must identify the winner of the 2024 US presidential election (Donald Trump) and correctly state he is a Republican. The answer may use web search or the model's own knowledge."
+  },
+  {
+    "id": 8,
+    "goal": "Research the company Notion and evaluate whether they would benefit from our enterprise workflow automation consulting.",
+    "criteria": "The answer must research Notion (the productivity/notes platform), discuss their product and market position, assess fit for workflow automation consulting, and give a clear lead qualification conclusion with reasoning."
+  }
+]
